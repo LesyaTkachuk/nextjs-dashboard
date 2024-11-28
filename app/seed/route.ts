@@ -2,7 +2,7 @@
 // import { db } from "@vercel/postgres";
 // import { invoices, customers, revenue, users } from "../lib/placeholder-data";
 
-// This file is used to seed database with placeholder data from local environment
+// // This file is used to seed database with placeholder data from local environment
 
 // const client = await db.connect();
 
